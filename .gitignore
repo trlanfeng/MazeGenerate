@@ -6,3 +6,8 @@
 *.csproj
 *.unityproj
 *.sln
+/Export
+/.vs
+/MazeGenerate.CSharp.csproj
+/MazeGenerate.CSharp.Editor.csproj
+/MazeGenerate.sln

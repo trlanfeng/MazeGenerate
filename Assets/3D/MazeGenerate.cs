@@ -9,6 +9,7 @@ public class MazeGenerate : MonoBehaviour
     int[][] mapArray;
     Transform[][] mapGameObjectArray;
     public GameObject wallBlock;
+    public GameObject floorBlock;
     void Start()
     {
         Random.seed = randomSeed;
